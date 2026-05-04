@@ -14,7 +14,6 @@
 | 🧩 | [**Autonomous AI Analyst**](https://github.com/Saqibnazirbhat/autonomous-ai-analyst) | Multi-agent fraud detection: ML pipeline + a bull/bear/devil/judge debate team over typed contracts, with full governance traces. |
 | 📚 | [**Incident & Postmortem Wiki**](https://github.com/Saqibnazirbhat/incident-postmortem-wiki) | Self-maintaining ops knowledge base — the LLM does the bookkeeping, humans curate sources and ask questions. |
 | 🏥 | [**Cliniq**](https://github.com/Saqibnazirbhat/cliniq) | Healthcare patient management dashboard with synthetic data, full EDA, and an interactive clinical UI. |
-| 🤖 | **CricketVision AI** | Full-stack web app: MediaPipe + Claude API analyse batting technique from uploaded videos with real-time coaching feedback. |
 | 🔬 | [**Information Crystallization**](https://github.com/Saqibnazirbhat/information-crystallization) | Solo research on a bottom-up algorithm for minimal-circuit discovery in transformer LMs. |
 
 ---
